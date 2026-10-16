@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-10-16T08:45:01.814Z",
+  "problems": [
+    {
+      "frontendId": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "slug": "recyclable-and-low-fat-products",
+      "problemName": "1757-recyclable-and-low-fat-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+      "folderPath": "Leetcode-Solutions/1757-recyclable-and-low-fat-products/",
+      "readmePath": "Leetcode-Solutions/1757-recyclable-and-low-fat-products/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1757-recyclable-and-low-fat-products.py",
+          "path": "Leetcode-Solutions/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.py",
+          "sha": "e7870183634465bfa1d9338f97d5b5637e048330",
+          "lastSyncedAt": "2026-10-16T08:45:01.814Z"
+        }
+      ]
+    }
+  ]
+}
